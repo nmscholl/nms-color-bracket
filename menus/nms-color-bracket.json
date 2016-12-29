@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Color Brackets",
+        "command": "nms-color-bracket:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "nms-color-bracket",
+          "submenu": [
+            {
+              "label": "Color Brackets",
+              "command": "nms-color-bracket:toggle"
+            }
+          ]
+         }
+      ]
+    }
+  ]
+}
