@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "nms-color-bracket:toggle"
   },
-  "repository": "https://github.com/atom/nms-color-bracket",
+  "repository": "https://github.com/nmscholl/nms-color-bracket",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
