@@ -1,7 +1,7 @@
 {
   "name": "nms-color-bracket",
   "main": "./lib/nms-color-bracket",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Color codes pairs of matching curly brackets to help see block structure, and quickly identify missing/extra brackets",
   "keywords": [],
   "activationCommands": {
